@@ -1,0 +1,46 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Energy",
+      "Fossil Fuels"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3adb03b8-ce50-00b1-bee0-2cb32d87ad92"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Energy Crisis: Past and Present",
+  "course_description": "This course will explore how Americans have confronted energy challenges since the end of World War II. Beginning in the 1970s, Americans worried about the supply of energy. As American production of oil declined, would the US be able to secure enough fuel to sustain their high consumption lifestyles? At the same time, Americans also began to fear the environmental side affects of energy use. Even if the US had enough fossil fuel, would its consumption be detrimental to health and safety? This class examines how Americans thought about these questions in the last half-century. We will consider the political, diplomatic, economic, cultural, and technological aspects of the energy crisis. Topics include nuclear power, suburbanization and the new car culture, the environmental movement and the challenges of clean energy, the Middle East and supply of oil, the energy crisis of the 1970s, and global warming.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.207",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
